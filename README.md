@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arthur Scarpati
+- 👀 I’m interested in programming and new technologies
+- 🌱 I’m currently learning Java, JavaScript, CSS, HTML 
+- 📫 How to reach me https://www.linkedin.com/in/arthur-scarpati/
