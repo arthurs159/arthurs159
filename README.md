@@ -4,7 +4,7 @@
 
 =============================================================
 
-Aqui é onde coloco meus projetos de estudos sobre Java, Java Script, React, Angular e etc.
+Aqui é onde coloco meus projetos de estudos sobre Java, Java Script, React e etc.
 
 Sempre fui apaixonado por tecnologia, por isso decidi me aprofundar mais para saber como esse mundo funciona, comecei pelo Java, participei também do programa Desenvolve onde aprendi como o front-end funciona e pretendo continuar meus estudos para no futuro me tornar um FullStack.
 
