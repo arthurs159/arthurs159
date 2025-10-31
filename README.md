@@ -1,12 +1,12 @@
-# Olá, sou o Arthur :call_me_hand:
+# Hi there, I'm Arthur :call_me_hand:
 
-## Bem-vindo(a) ao meu GitHub 
+## Welcome to my Github 
 
 =============================================================
 
-Aqui é onde coloco meus projetos de estudos sobre Java, Java Script, React e etc.
+This is the place where I share my study projects about Java, JavaScript, React, and more.
 
-Sempre fui apaixonado por tecnologia, por isso decidi me aprofundar mais para saber como esse mundo funciona, comecei pelo Java, participei também do programa Desenvolve onde aprendi como o front-end funciona e pretendo continuar meus estudos para no futuro me tornar um FullStack.
+I've always been passionate about technology, which led me to dive deeper into understanding how this world works. I started with Java, also took part in the “Desenvolve” program where I learned how the front-end works, and I plan to keep studying to become a Full Stack developer in the future.
 
 =============================================================
 
